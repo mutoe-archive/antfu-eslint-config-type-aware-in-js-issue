@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "strict": true
+  },
+  "files": ["eslint.config.js"],
+  "include": ["src", "scripts"]
+}
